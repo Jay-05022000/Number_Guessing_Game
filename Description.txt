@@ -1,0 +1,7 @@
+This is number guessing game.
+
+--In this game a number is set as a default number and user have to guess this number.
+--User have limited attempts to guess  the number.
+-- After each attempt user will be notify about his/her remaining attempts.
+-- Game ends in two conditions:1) If all attempts are taken
+                               2) If user is able to guess number correctly before Utilizing all attempts
